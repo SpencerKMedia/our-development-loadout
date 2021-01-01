@@ -1,6 +1,6 @@
-# My Development Loadout
+# Our Development Loadout
 
-My tools and processes to having a successful development career. Items listed here consist of IDE's, Extensions, Local Servers, Cloud Servers, etc.
+Our tools and processes to having a successful development career. Items listed here consist of IDE's, Extensions, Local Servers, Cloud Servers, etc.
 
 ## Getting Started
 
