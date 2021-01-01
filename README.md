@@ -62,3 +62,21 @@ Below will be a list of various tools including any possible download links.
 - Google Chrome
 - Firefox Developer Edition
 - Edge (Chromium)
+
+### Tutorials and Learning
+- FreeCodeCamp [Watch](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- Traversy Media [Watch](https://www.youtube.com/user/TechGuyWeb)
+- Derek Banas [Watch](https://www.youtube.com/user/derekbanas)
+- Academind [Watch](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+- The Net Ninja [Watch](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- Sentdex [Watch](https://www.youtube.com/user/sentdex)
+- Kevin Powell [Watch](https://www.youtube.com/user/KepowOb)
+- Steve Griffith [Watch](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ)
+- Dev Ed [Watch](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- CodeSTACKr [Watch](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+- Web Dev Simplified [Watch](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- Bitfumes [Watch](https://www.youtube.com/channel/UC_hG9fglfmShkwex1KVydHA)
+- Clever Programmer [Watch](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+- Techno Tim [Watch](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
+- Programming With Mosh [Watch](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- CodeCourse [Watch](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
