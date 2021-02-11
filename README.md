@@ -9,8 +9,8 @@ Below will be a list of various tools including any possible download links.
 ### Servers
 
 - Cloud Servers
-  * Digital Ocean VPS (LEMP): [https://marketplace.digitalocean.com/apps/lemp](https://marketplace.digitalocean.com/apps/lemp "Digital Ocean")
-  * A2 Hosting Shared Server (LAMP - Cloudlinux): [https://www.a2hosting.com/web-hosting](https://www.a2hosting.com/web-hosting "A2 Hosting")
+  * Digital Ocean VPS (LEMP): [https://marketplace.digitalocean.com/apps/lemp](https://marketplace.digitalocean.com/apps/lemp "Digital Ocean") - This is used for DB's and small projects.
+  * Digital Ocean VPS (Plesk): [https://marketplace.digitalocean.com/apps/plesk](https://marketplace.digitalocean.com/apps/lemp "Digital Ocean") - This is for larger projects.
 - Local Servers
   * MySQL Community Server: [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/ "MySQL Server")
   * WAMP (Windows Apache MySQL PHP): [https://www.wampserver.com/en/](https://www.wampserver.com/en/ "WAMP")
